@@ -2,6 +2,7 @@
 	"icon": "phpstorm",
 	"label": "PhpStorm",
 	"description": "The Most Intelligent PHP IDE.",
+	"license": "Proprietary",
 	"category": "Apps",
 	"scripts": {
 		"exec": {
